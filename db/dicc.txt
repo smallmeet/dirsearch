@@ -1,3 +1,15 @@
+env
+trace
+metrics
+heapdump
+actuator
+beans
+configprops
+dump
+logfile
+trace
+mappings
+autoconfig
 http://c84b85ec.dnslog.link/
 !.gitignore
 !.htaccess
